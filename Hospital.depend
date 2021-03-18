@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1616037215 source:d:\project\hospital-management\hospital\index.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1616036969 source:d:\project\hospital-management\hospital\login.c
+	<stdio.h>
+
+1616037355 source:d:\project\hospital-management\hospital\main-menu.c
+
+1616033014 source:d:\project\hospital-management\hospital\admin-menu.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1613320281 source:d:\project\hospital-management\hospital\adminhomescreen.c
+
+1616035305 source:d:\project\hospital-management\hospital\doctor-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1611465737 d:\project\hospital-management\hospital\doctor-information.c
+	<stdio.h>
+
+1616031934 source:d:\project\hospital-management\hospital\extension.c
+	<stdio.h>
+	<time.h>
+
+1616032055 source:d:\project\hospital-management\hospital\about-us.c
+
+1613317913 source:d:\project\hospital-management\hospital\welcomescreen.c
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+
+1616031390 source:d:\project\hospital-management\hospital\wecome-screen.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616035383 source:d:\project\hospital-management\hospital\patient-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616032641 source:d:\project\hospital-management\hospital\search.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616036161 source:d:\project\hospital-management\hospital\staff-information.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
+	<dir.h>
+
+1616036668 source:d:\project\hospital-management\hospital\settings.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
+1614760718 source:d:\project\hospital-management\hospital\data-validation.c
+
